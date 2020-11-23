@@ -1,0 +1,44 @@
+.wrapper {
+  position: absolute;
+  height: 100vh;
+  width: 100%;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  form {
+    padding: 2rem;
+    border-radius: 0.25rem;
+    border: 1px solid #cdcdcd;
+    background-color: #ffffff;
+    width: 400px;
+
+    h3 {
+      margin: 0;
+      padding: 0.25rem;
+    }
+
+    hr {
+      margin-bottom: 2rem;
+    }
+
+    div {
+      margin-bottom: 1rem;
+
+      .error {
+        display: block;
+        color: #ff5353;
+        font-size: 0.75rem;
+        padding-top: 5px;
+      }
+
+      input {
+        padding: 0.5rem;
+        box-sizing: border-box;
+        width: 100%;
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+.dashboard {
+  padding: 1rem;
+  span {
+    float: right;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+
+    tr {
+      td,
+      th {
+        border: 1px solid #cdcdcd;
+        text-align: center;
+        padding: 0.25rem;
+      }
+    }
+  }
+}
