@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/type-racer-game/static/css/main.b53815d1.chunk.css",
+    "main.js": "/type-racer-game/static/js/main.8f8cfa81.chunk.js",
+    "main.js.map": "/type-racer-game/static/js/main.8f8cfa81.chunk.js.map",
+    "runtime-main.js": "/type-racer-game/static/js/runtime-main.aa7946f9.js",
+    "runtime-main.js.map": "/type-racer-game/static/js/runtime-main.aa7946f9.js.map",
+    "static/js/2.1dca2f18.chunk.js": "/type-racer-game/static/js/2.1dca2f18.chunk.js",
+    "static/js/2.1dca2f18.chunk.js.map": "/type-racer-game/static/js/2.1dca2f18.chunk.js.map",
+    "index.html": "/type-racer-game/index.html",
+    "static/css/main.b53815d1.chunk.css.map": "/type-racer-game/static/css/main.b53815d1.chunk.css.map",
+    "static/js/2.1dca2f18.chunk.js.LICENSE.txt": "/type-racer-game/static/js/2.1dca2f18.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa7946f9.js",
+    "static/js/2.1dca2f18.chunk.js",
+    "static/css/main.b53815d1.chunk.css",
+    "static/js/main.8f8cfa81.chunk.js"
+  ]
+}
